@@ -6,7 +6,7 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class Mahasiswa(
-    val nim: String,
+    val nim: String ,
     val nama: String,
     val alamat: String,
 
