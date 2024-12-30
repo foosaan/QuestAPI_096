@@ -1,6 +1,7 @@
 package com.example.databaseonlineapi.Navigasi
 
-interface DestinasiNavigasi{
+interface DestinasiNavigasi {
     val route: String
 
     val titleRes: String
+}
